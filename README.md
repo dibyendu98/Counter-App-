@@ -1,6 +1,6 @@
 # Counter-App
 
-Builded an Web based Counter Application .
+Builded an Web based Counter Application for keeping count of items.
 
 ### Technologies used :- ###
 * HTML
